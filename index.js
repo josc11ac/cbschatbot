@@ -4,6 +4,8 @@
 const token = process.env.FB_PAGE_ACCESS_TOKEN
 const vtoken = process.env.FB_PAGE_VERIFY_TOKEN
 
+//jonas code
+
 const express = require('express')
 const bodyParser = require('body-parser')
 const request = require('request')
